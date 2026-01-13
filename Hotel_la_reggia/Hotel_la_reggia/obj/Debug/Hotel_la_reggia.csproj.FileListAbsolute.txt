@@ -1,0 +1,12 @@
+C:\Users\Belometti.22036\source\repos\Hotel_la_reggia\Hotel_la_reggia\bin\Debug\Hotel_la_reggia.exe.config
+C:\Users\Belometti.22036\source\repos\Hotel_la_reggia\Hotel_la_reggia\bin\Debug\Hotel_la_reggia.exe
+C:\Users\Belometti.22036\source\repos\Hotel_la_reggia\Hotel_la_reggia\bin\Debug\Hotel_la_reggia.pdb
+C:\Users\Belometti.22036\source\repos\Hotel_la_reggia\Hotel_la_reggia\obj\Debug\Hotel_la_reggia.csproj.AssemblyReference.cache
+C:\Users\Belometti.22036\source\repos\Hotel_la_reggia\Hotel_la_reggia\obj\Debug\Hotel_la_reggia.Gestisci_hotel.resources
+C:\Users\Belometti.22036\source\repos\Hotel_la_reggia\Hotel_la_reggia\obj\Debug\Hotel_la_reggia.Prenotazioni.resources
+C:\Users\Belometti.22036\source\repos\Hotel_la_reggia\Hotel_la_reggia\obj\Debug\Hotel_la_reggia.Prenot_clienti.resources
+C:\Users\Belometti.22036\source\repos\Hotel_la_reggia\Hotel_la_reggia\obj\Debug\Hotel_la_reggia.csproj.GenerateResource.cache
+C:\Users\Belometti.22036\source\repos\Hotel_la_reggia\Hotel_la_reggia\obj\Debug\Hotel_la_reggia.csproj.CoreCompileInputs.cache
+C:\Users\Belometti.22036\source\repos\Hotel_la_reggia\Hotel_la_reggia\obj\Debug\Hotel_la_reggia.exe
+C:\Users\Belometti.22036\source\repos\Hotel_la_reggia\Hotel_la_reggia\obj\Debug\Hotel_la_reggia.pdb
+C:\Users\Belometti.22036\source\repos\Hotel_la_reggia\Hotel_la_reggia\obj\Debug\Hotel_la_reggia.Home.resources
